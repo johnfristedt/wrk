@@ -1,5 +1,0 @@
-Ask the user for two numbers, add them together and output the result as such:
-
-First number: 5
-Second number: 10
-5 + 10 = 15

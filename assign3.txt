@@ -1,0 +1,14 @@
+Ask the user for two numbers and print which one is bigger, if they are both the same you should print that instead
+For example:
+
+First number: 20
+Second number: 100
+The second number is bigger
+
+First number: 200
+Second number: 100
+The first number is bigger
+
+First number: 100
+Second number: 100
+The numbers are equal
